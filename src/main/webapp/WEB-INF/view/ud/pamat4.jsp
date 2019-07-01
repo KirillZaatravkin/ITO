@@ -133,6 +133,8 @@
                 </td>
                 <td><p><input name="s10" type="radio" value="1"> Да</p>
                     <p><input name="s10" type="radio" value="0"> Нет</p>
+
+
                 </td>
                 <td><p><input type="text" name ="t10"></p></td>
             </tr>
