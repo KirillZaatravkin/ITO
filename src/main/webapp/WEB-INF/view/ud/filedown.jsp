@@ -1,0 +1,5 @@
+<script>
+
+    close();
+
+</script>
